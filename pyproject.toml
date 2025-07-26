@@ -10,7 +10,7 @@ readme = "README.md"
 authors = [
     {name = "Team 3"}
 ]
-urls = {homepage = "https://github.com/sghimire2025/GPS_UC_Residency_Project"}
+urls = {homepage = "https://github.com/truthsir8739/GPS_UC_Residency_Project"}
 
 requires-python = ">=3.8"
 dependencies = [
